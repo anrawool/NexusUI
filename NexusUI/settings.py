@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-36=tx2=%xvu1%9e6%%ubddbt3*2vp1)p9d&0alg3qqzqq*41^w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.58:8022', 'www.nexussarthak.in:8022', 'localhost', '192.168.1.58:8000', 'www.nexussarthak.in:8000', '192.168.1.58']
+ALLOWED_HOSTS = ['192.168.1.58:8022', 'localhost', '192.168.1.58:8000', '192.168.1.58']
 
 
 # Application definition
